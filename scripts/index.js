@@ -11,10 +11,10 @@ L.esri.featureLayer(
     }).addTo(mymap);
 
 // Work Orders
-L.esri.featureLayer(
+/* L.esri.featureLayer(
     {
         url: 'https://maps2.dcgis.dc.gov/dcgis/rest/services/DDOT/Cityworks/MapServer/0'
-    }).addTo(mymap);
+    }).addTo(mymap); */
 
 var popup = L.popup();
 
